@@ -11,11 +11,11 @@
 ---
 
 ## Sobre Mim (PT-BR)
-Prazer, meu nome de verdade é Douglas Guilherme, mas prefiro que me chamem de Guilherme 😉.<br>
+Prazer, meu nome de verdade é Guilherme 😉.<br>
 Atualmente tenho 21 anos e sou fascinado por videogames e computadores desde muito cedo, por isso me arrisco nesse mundo fascinante da computação⌨️🖥️🖱️.
 
 ## About Me (EN-US)
-Greetings, my real name is Douglas Guilherme, but I prefer to be called Guilherme 😉.<br>
+Greetings, my real name is Guilherme 😉.<br>
 I'm 21 years old and I've been fascinated by video games and computers since a very early age, which is why I venture into this fascinating computing world ⌨️🖥️🖱️.
 
 ## Minhas habilidades mais notaveis
